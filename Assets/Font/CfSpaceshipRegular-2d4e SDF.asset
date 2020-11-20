@@ -113,9 +113,9 @@ Material:
     - _OutlineWidth: 0
     - _PerspectiveFilter: 0.875
     - _Reflectivity: 10
-    - _ScaleRatioA: 1
-    - _ScaleRatioB: 1
-    - _ScaleRatioC: 1
+    - _ScaleRatioA: 0.8333333
+    - _ScaleRatioB: 0.6770833
+    - _ScaleRatioC: 0.6770833
     - _ScaleX: 1
     - _ScaleY: 1
     - _ShaderFlags: 0
@@ -160,9 +160,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
   m_Name: CfSpaceshipRegular-2d4e SDF
   m_EditorClassIdentifier: 
-  hashCode: 0
+  hashCode: 1401795106
   material: {fileID: -415670281798798192}
-  materialHashCode: 0
+  materialHashCode: 2080893634
   m_Version: 1.1.0
   m_SourceFontFileGUID: 842671150f3fb404aa64f11b47daa6af
   m_SourceFontFile_EditorRef: {fileID: 12800000, guid: 842671150f3fb404aa64f11b47daa6af, type: 3}
@@ -185,7 +185,7 @@ MonoBehaviour:
     m_SubscriptSize: 0.5
     m_UnderlineOffset: -13.2
     m_UnderlineThickness: 6.6
-    m_StrikethroughOffset: 0
+    m_StrikethroughOffset: 39.6
     m_StrikethroughThickness: 6.6
     m_TabWidth: 72
   m_GlyphTable:
