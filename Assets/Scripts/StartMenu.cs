@@ -19,11 +19,13 @@ public class StartMenu : MonoBehaviour
     public void Controls()
     {
         startUI.SetActive(false);
+        controlsUI.SetActive(true);
     }
 
     public void BackToStart()
     {
         startUI.SetActive(true);
+        controlsUI.SetActive(false);
     }
 
     public void ExitGame()
