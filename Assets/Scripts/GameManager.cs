@@ -25,7 +25,7 @@ public class GameManager : MonoBehaviour
         private float asteroidSpawnRate = 0.75f;
         private float cowSpawnRate = 3.55f;
 
-        private float rotationSpeed = 0.02f;
+        private float rotationSpeed = 0.2f;
 
         public void Init(GameObject _asteroidPrefab, GameObject _cowPrefab)
         {
